@@ -1,10 +1,14 @@
 # ReDI-CO2-Emission-Project
 CO₂ Emissions Analysis in the United States
 
+
+
 Project Overview
 
-This project explores carbon dioxide (CO₂) emissions across the United States using public environmental data. . 
-The goal is to understand which factors contribute most to emissions and how this information could support climate-related decision making.
+   This project explores carbon dioxide (CO₂) emissions across the United States using public environmental data. . 
+   The goal is to understand which factors contribute most to emissions and how this information could support climate-related decision making.
+
+
 
 
 Motive
@@ -15,6 +19,7 @@ As a beginner in data science, I chose this dataset to practise skills in data c
 Source: [Kaggle - CO₂ Emissions Dataset] (https://www.kaggle.com/code/abdelrahman16/co2-emissions/input?select=emissions.csv)
 - File used: `emissions.csv`
 - Columns include: `year`, `state-name`, `sector-name`, `fuel-name`, and `value` 
+
 
 
 **Data analysis**
@@ -37,14 +42,19 @@ Installed packages
 Pandas, Matplotlib, Seaborn
 
 
+
 Key Findings
 CO₂ emissions have decreased slightly in recent years, but large states like Texas and California still lead in total emissions.
 The **residential sector** contributes significantly, showing that household energy habits matter.
 
 
+
+
 Challenges
 
 The dataset had fewer columns 
+
+
 
 
 Future improvements 
