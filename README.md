@@ -17,9 +17,15 @@ Climate change is one of the biggest challenges of our time. CO₂ emissions are
 As a beginner in data science, I chose this dataset to practise skills in data cleaning, visualisation, and basic analysis while contributing to a socially relevant topic.
 
 Source: [Kaggle - CO₂ Emissions Dataset] (https://www.kaggle.com/code/abdelrahman16/co2-emissions/input?select=emissions.csv)
-- File used: `emissions.csv`
-- Columns include: `year`, `state-name`, `sector-name`, `fuel-name`, and `value` 
-
+   File used: `emissions.csv`
+   Timeline: 1970  to 2021
+   Columns include: `year`, `state-name`, `sector-name`, `fuel-name`, and `value`
+   year: Indicates the year in which the CO₂ emissions were recorded 
+   state-name: Name of the U.S. state where the emissions were measured 
+   sector-name: Sector responsible for the emissions, such as Residential, Transportation, Industrial, etc.
+   fuel-name: Type of fuel used that contributed to the emissions, including options like Coal, Petroleum, or Natural Gas.
+   value: Represents the quantity of CO₂ emissions recorded, measured in Million Metric Tonnes (MMT)
+   
 
 
 **Data analysis**
