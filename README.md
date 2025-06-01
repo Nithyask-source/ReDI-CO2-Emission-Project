@@ -60,6 +60,7 @@ The dataset had fewer columns
 Future improvements 
 
 Use forecasting methods to predict future CO₂ trends
+
 Build an interactive dashboard 
 
 
